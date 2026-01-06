@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: harsha-2109/devops:latest
+        image: harsh2109/devops:latest
         ports:
         - containerPort: 8080
